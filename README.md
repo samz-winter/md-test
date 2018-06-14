@@ -1,5 +1,8 @@
 # Markdown Folder and Document Test
 
+> ***NOTE:***\
+> Don't forget, you can add blockquotes to make information stand out!\
+
 Use the following query to search all column names in a schema.
 ```sql
 select
