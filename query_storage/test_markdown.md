@@ -1,7 +1,7 @@
 # Testing full Markdown usage
 
-> **NOTE:**
-> • This is just a test of some Markdown in a document.
+> **NOTE:**\
+> • This is just a test of some Markdown in a document.\
 > • Markdown can be used as long as the file type is .md
 
 
