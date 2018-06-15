@@ -54,7 +54,7 @@ StackEdit is a free, open-source Markdown editor based on PageDown, the Markdown
   
 ## Example Query
 Use the following query to search all column names in a schema.
-```sql
+```postgresql
 select
   table_schema, table_name, column_name, data_type
 from
