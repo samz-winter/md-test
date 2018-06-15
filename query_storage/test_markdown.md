@@ -4,6 +4,9 @@
 > • This is just a test of some Markdown in a document.\
 > • Markdown can be used as long as the file type is .md
 
+**Other Style Guides**
+  - [External Link](https://www.camdenrockland.com/moving-to-maine)
+  
 ## Table of Contents
   1. [Search all column names in a schema](#search-all-column-names-in-a-schema)
   1. [Get all column names in a table](#get-all-column-names-in-a-table)
