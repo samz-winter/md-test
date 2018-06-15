@@ -1,0 +1,5 @@
+# Table of Recurring Reports
+
+| Report           | Sent/Completed Time  | Method       | Where to find it                                            |
+|------------------|----------------------|--------------|-------------------------------------------------------------|
+| CXT Weekly Recap | Weekly (Wednesday)   | Email (auto) | http://tableau.grubhub.com/#/site/Cool/workbooks/0000/views |
