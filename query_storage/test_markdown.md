@@ -24,6 +24,8 @@ where
 order by 
   1,2,ordinal_position asc
 ```
+**[back to top](#table-of-contents)**
+
 ## Get all column names in a table
 Use the following query to get all column names in a table.
 ```sql
@@ -37,6 +39,7 @@ where
 order by 
   ordinal_position asc;  -- sorts in the order table displays
   ```
+**[back to top](#table-of-contents)**
 
 ## In-browser Markdown editor
 ### New features ###
@@ -76,3 +79,4 @@ StackEdit is a free, open-source Markdown editor based on PageDown, the Markdown
  - Offline editing
  - Online synchronization using Google Drive (multi-accounts) and Dropbox
  - One click publish on Blogger, Dropbox, Gist, GitHub, Google Drive, SSH server, Tumblr, WordPress
+**[back to top](#table-of-contents)**
