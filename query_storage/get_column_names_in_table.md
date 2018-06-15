@@ -1,4 +1,4 @@
-# Search all column names in a schema
+# Get Column Names in a Table
 Use the following query to get all column names in a table.
 ```sql
 select
