@@ -13,7 +13,7 @@ order by
 ```
 
 > ***NOTE:***\
-> 💀 This is a query that is for querying things\
+> 💀 This is a query that is for querying things.
 
 ```sql
 select
