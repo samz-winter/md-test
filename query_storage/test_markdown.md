@@ -4,6 +4,8 @@
 > • This is just a test of some Markdown in a document.\
 > • Markdown can be used as long as the file type is .md
 
+[![Downloads]()
+
 ## Table of Contents
   1. [Search all column names in a schema](#queries)
   
