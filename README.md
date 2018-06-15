@@ -5,7 +5,8 @@
 > • Markdown can be used as long as the file type is .md
 
 **Other Style Guides**
-  - [External Link](https://www.camdenrockland.com/moving-to-maine)
+  - [Managing Postgres Views](http://www.postgresqltutorial.com/managing-postgresql-views/)
+  - [Cool External Link](https://www.camdenrockland.com/moving-to-maine)
   
 ## Page Contents
   1. [Cool Document Description](#cool-document-description)
