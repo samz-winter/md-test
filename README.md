@@ -54,7 +54,7 @@ StackEdit is a free, open-source Markdown editor based on PageDown, the Markdown
   
 ## Example Query
 Use the following query to search all column names in a schema.
-```postgresql
+```sql
 select
   table_schema, table_name, column_name, data_type
 from
@@ -63,8 +63,5 @@ where
   column_name like '%cust%'
 order by 
   1,2,ordinal_position asc
-  
-count(distinct case when os.delivery_time between date_trunc('week', current_date)-'2week'::interval 
-and date_trunc('week', current_date)-'1week'::interval then os.order_id end) as previous_week_orders,
 ```
 **[back to top](#page-contents)**
