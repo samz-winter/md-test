@@ -5,7 +5,7 @@
 > • Markdown can be used as long as the file type is .md
 
 ## Table of Contents
-  1. [Search all column names in a schema](#search-all-column-names-in-a-schema)
+  1. [Search all column names in a schema](#search-all-column-names--schema)
   
 ## Search all column names in a schema
 Use the following query to search all column names in a schema.
