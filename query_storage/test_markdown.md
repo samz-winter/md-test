@@ -5,7 +5,9 @@
 > • Markdown can be used as long as the file type is .md
 
 ## Table of Contents
-  1. [Search all column names in a schema](#search-all-column-names--schema)
+  1. [Search all column names in a schema](#search-all-column-names-in-a-schema)
+  1. [Get all column names in a table](#get-all-column-names-in-a-table)
+  1. [In-browser Markdown editor](#in-browser-markdown-editor)
   
 ## Search all column names in a schema
 Use the following query to search all column names in a schema.
@@ -19,9 +21,21 @@ where
 order by 
   1,2,ordinal_position asc
 ```
+## Get all column names in a table
+Use the following query to get all column names in a table.
+```sql
+select
+  column_name, data_type
+from
+  information_schema.columns
+where 
+  table_schema = 'restaurant_reporting' -- schema name 
+  and table_name = 'gfr_restaurant_totals' -- table name 
+order by 
+  ordinal_position asc;  -- sorts in the order table displays
+  ```
 
-
-# In-browser Markdown editor
+## In-browser Markdown editor
 ### New features ###
 - Synchronize with Google Drive or Dropbox
 - Publish directly on GitHub, Gist, Blogger, WordPress, Tumblr or any SSH server
