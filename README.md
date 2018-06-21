@@ -7,6 +7,8 @@
 **Other Style Guides**
   - [Managing Postgres Views](http://www.postgresqltutorial.com/managing-postgresql-views/)
   - [Cool External Link](https://www.camdenrockland.com/moving-to-maine)
+  - [Repository Query Storage](https://github.com/samz-winter/md-test/tree/master/query_storage)
+  - [Repository Report Schedule](https://github.com/samz-winter/md-test/tree/master/report-schedule)
   
 ## Page Contents
   1. [Cool Document Description](#cool-document-description)
