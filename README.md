@@ -25,7 +25,7 @@ Keep in mind that anyone in the company who has access to the Care site can view
 
 ## Naming Conventions
 <a name="naming--be-specific"></a><a name="1.1"></a>
-#### [1.1](#naming--be-specific) Be specific when naming all items.
+**[1.1](#naming--be-specific) Be specific when naming all items.**
 * Include the purpose of the report in the Workbook name so it's apparent at a glance what the Workbook contains and should be used for.
 * Include an abbreviated purpose in the View names, so all Views are tied to their Workbooks even if someone is browsing Views only or shares just the View with an interested party. When possible make this the first part of the name so all Views are together if sorted alphabetically.
 * Include similar naming for datasources and extracts where possible.
